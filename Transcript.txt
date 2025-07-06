@@ -1,0 +1,429 @@
+MITOCW | 7.012-2004-L02
+OK. So today we're going to spend a little bit of time on some elementary chemistry just to develop our language
+that we use with one another. And so when I say hydrogen bond, you don't stare blankly at me and scratch your
+heads. Many of you have had this already.
+For many of you this is a review, but it's a useful review.
+We believe here at MIT of teaching things two or three times often, the same subject matter, but at increasing
+levels of sophistication.
+So I do this without apology. Our first issue here is how are atoms and molecules held together? And the most
+familiar way by which atoms and molecules are held together is, of course, the covalent bonds. And covalent
+bonds have an energy of roughly 80 kilocalories per mole. And that's a rather strong energy to hold together two
+atoms because the energy, the thermal energy, that is the energy at, let's say, body temperature is about 0.6
+kilocalories per mole. And, therefore, if you had a bond, if there was something holding things together that was in
+this range or two or three or four times higher then the simple thermal energy at room temperature or at body
+temperature would be sufficient to break apart such a bond. But, in fact, this energy, the energy of a covalent
+bond is so much higher that it's highly unlikely that thermal energy is going to break apart a preexisting covalent
+bond. And I was just reading yesterday about how people were analyzing the mitochondrial DNA from some
+Neanderthal bones which were dug up. The last Neanderthal lived around 30,000 years ago, our recently
+demised cousins.
+And they were analyzing the DNA sequences. And they got out of those analyses stretches of DNA that were 200,
+300 nucleotides long.
+And that really is stunning testimonial to the fact that under very difficult conditions, nonetheless, complex
+biological molecules are able to survive over astounding periods of time, indeed those that are held together by
+the covalent bonds like this.
+Of course, you remember the film Jurassic Park where they used PCR reaction to resurrect the DNA of dinosaurs.
+That's a bit of a fantasy since dinosaurs left us, I guess, about 150 million years ago, something like that. There's
+a big difference, obviously, between 300,000 and 150 million year ago.
+Now, the fact is if you look at the way that molecules are actually hooked up, for instance, let's look at a water
+molecule here.
+Ideally there should be no charge on this molecule.
+And, in fact, there is no net charge. But the truth of the matter is, if one wants to get frank, that oxygen molecules,
+and we always are here, that oxygen molecules have a greater affinity for electrons than do hydrogen atoms, i.e.,
+they are electronegative.
+And, therefore, what this means is that the swarms of electrons that are holding all this together at the orbitals are
+drawn more closely to the oxygen and the hydrogen atoms, i.e., the protons are relatively willing to give up their
+electrons. And what this means is that there's an unequal distribution. And, as a consequence, there is a fraction
+of a negative charge here at this end of the molecule and there are fractions of positive charges here because it's
+not as if they've totally given up the electrons, but the electrons are shifted more in this direction. And this
+molecule is therefore called a polar molecule by virtue of the fact that here it has a positive pole and here it has a
+negative pole. There are other pairs of molecules which are relatively equally electronegative.
+For example, here, if we have a carbon and a hydrogen, these two atoms are roughly equally matched in terms of
+their ability to pull electrons away, one from the other. And, as a consequence, there is no net shifting of charge.
+And keep in mind that this delta I show here is only a fraction of an electronic charge. It's not the entire electronic
+charge moved over. But this has important consequences for the entire biochemistry that we're about to get into
+both today and on Monday. Important because polar molecules, such as water like this, are able to dissolve
+certain compounds.
+And nonpolar molecules, which have large arrays of these kinds of bonds or carbon-carbon bonds, these are
+relatively insoluble in water, and that has important consequences for the organization of biological membranes.
+We might have a carbonyl bond here, that is a C going to an O via a double bond. And here we have, once again,
+a situation where the oxygen is far more avid in terms of its willingness and interest in pulling electrons toward
+itself.
+And, therefore, the carbon gives up a little bit of the electron cloud and it becomes slightly electropositive.
+Whereas, the oxygen atom becomes slightly electronegative.
+Now, the fact of the matter is that there are also other bonds that are noncovalent and are much less energetic.
+For example, let's talk for a moment about a hydrogen bond.
+And it's perhaps easiest to demonstrate a hydrogen bond by looking at the structure of two neighboring water
+molecules in a solution of water of all things. And, the fact of the matter is, let's say we draw one water molecule
+down here and one water molecule down here. What will happen is that this oxygen atom over here by virtue of its
+electronegativity will have a certain affinity for pulling this hydrogen atom toward itself. And, in fact, what actually
+happens in real life, whatever that is at the molecular level, is that this hydrogen atom may actually be bouncing
+back and forth between these two oxygens. It may be rapidly an interchange between them. This interchange
+causes a strong association between two neighboring water molecules. And, indeed, represents the reason why
+water does not vaporize at room temperature because the water molecules have a strong affinity or an avidity for
+one another.
+And, therefore, just to take some illustrations out of the book, this is the way it's illustrated in the book.
+Probably good to have a screen down. And here you can see the way that water molecules are actually arrayed in
+water. This is the lower illustration here. Just to indicate to you that the hydrogen atoms are not really the
+possession, the ownership of one molecule of water. They're just constantly being exchanged back and forth. And
+this back and forth exchange, this sharing of a hydrogen atom is what enables a hydrogen bond of roughly 5
+kilocalories of energy per mole to hold things together.
+5 kilocalories is not much. It's only one order of magnitude above 0.6 rather than being two orders of magnitude.
+And, therefore, if one raises the temperature to the level of boiling, if the temperature is high enough, the thermal
+energy is high enough to rip apart these kinds of associations.
+Now, if we were to go back here to look at this carbonyl atom we would find the following sort of situation. Here we
+have this unequal sharing of electropositive and electronegative bonds.
+Let's put an acidic group like this. This is a carboxylic acid right here. Here we see a carbon bond to a hydroxyl
+here via this oxygen atom. Here, once again, we have an electronegative atom. And, in fact, if we talk about an
+ionized acid, normally in the absence of ionization there would be a net zero charge right here. But at neutral pH it
+may well be the case that the association, for various reasons, between this oxygen and this hydrogen will allow
+the hydrogen, or rather the proton, the nucleus of the hydrogen atom to just wander away.
+And, therefore, we can imagine there could be a net negative charge here. A whole, this has one full electron,
+electronegative charge here, the charge of one electron, and this proton will have ionized, will have left the
+carboxylic group in which it originated, and now we have an ionized acid group. Either before or even after this
+ionization, there is a strong affinity of the carboxyl group with the water around it because let's look at what
+happened before the ionization occurred. This carbon here is strong and electronegative. And, therefore, it will
+participate in hydrogen bonding to the water solvent here, i.
+., this proton will be shared a bit between the oxygen of the water molecule and the oxygen right here. Similarly,
+here this oxygen will be slightly electronegative for the reasons I've just described.
+And here, once again, there may be some weak hydrogen bonding going on.
+Although, not as effective as over here where we have a double-bond where we have a lot of concentration of a
+cloud of electrons pulled towards the oxygen atom. And this begins to give us clues as to why certain molecules
+are soluble in water and others are insoluble.
+For example, if we look at aliphatic compounds.
+Let's look at a compound that's structured like this.
+I guess most people would call this pentane. And we can call it that, too. And this has no electronegativity or
+positivity by virtue of the equal affinities of these two kinds of atoms, that is the hydrogen and the carbons for
+electrons. And as a consequence, this will not be able to form any hydrogen bonds with a solvent around it if the
+solvent happens to be water.
+So there's not good bonding here. And this will, in fact, also if one puts this in a solution of water, this will cause all
+the water molecules to line up in a certain way, almost a quasi-crystal around the aliphatic molecule. They'll be
+ordered in a certain layer around the aliphatic molecule without being able to form any strong hydrogen bonds
+with them. And this ordering represents a loss of chaos, a loss of entropy. Entropy is chaos. It's disorder.
+It's what happens, let's say, at 10:55 when we all leave the room, all of a sudden order becomes chaotic. And
+here, before this lining up occurred, the water molecules were chaotically arrayed throughout the solvent. After
+this lining up occurred there was a loss of entropy, there was a loss of chaos.
+And thermodynamics tells us that generally the ordering of molecules is disfavored. And consequently we now
+have two reasons why this molecule doesn't like to be in the midst of water.
+First of all, it's unable to form hydrogen bonds with the solvent.
+And second of all there is a decrease in the entropy, in the chaos that occurs when this molecule directly confronts
+water.
+And because of those two reasons it turns out that this molecule doesn't like to be in water. The aliphatic
+molecule, as one would call this in organic chemistry, doesn't like to be in water. And a dislike of water is often
+called its hydrophobicity, or we often call it hydro, might as well spell it right, hydrophobic, i.e., it really hates to be
+in water.
+In fact, class, there's a second meaning for hydrophobia, or hydrophobic has a second meaning.
+Every five years I ask a class to see who knows what the second meaning of hydrophobia is. This is really
+obscure. Sorry?
+Rabies, right. The TAs aren't allowed to answer that.
+If somebody has rabies, at one stage of rabies, almost near the terminal stage, the individual becomes
+hydrophobic because he or she doesn't like to drink water, for reasons that are obscure at least to me. Now,
+conversely, molecules that have carboxyl group on it would be called hydrophilic.
+And, as we'll see over this lecture and the next one, these hydrophobic and hydrophilic tendencies tend to have
+great affects on the overall behavior of molecules. Let's, for example, imagine a situation where we have a long
+aliphatic tail like this. In fact, these tails can go on in certain aliphatic compounds. They can go on for 20 or even
+30 carbons. And at the end of this, let's just put arbitrarily a carboxyl group. And let's say we ionized it.
+So here's an acidic group that's ionized. It's shed its proton.
+It's actually acquired a negative charge. And now we have something, this molecule is a bit schizoid. Because on
+one end of it, it loves to be in water, the other end of it hates to be in water.
+And this has strong affects. It's sometimes called amphipathic, but we don't need to worry about that word. And,
+therefore, this carboxyl head loves to stick its head, to immerse its head in water. And these things, the aliphatic
+portion hates to be in water. Now, as a consequence of these rather conflicted feelings that these molecules have
+about water, we can ask the question what happens when we put such molecules actually into water? And what
+we see here is the following. That if we were to construct, for example, a molecule of the sort that has here, in this
+case we're talking about a molecule that has two hydrophobic tails. We'll get into its detailed structure shortly, but
+just imagine for a moment two long hydrophobic tails out here ended with a hydrophilic head.
+And under such situations, if we put thousands of these or millions of these molecules into a solution of water,
+what we will then see is, no pointer? All right. Pointer?
+All right. What we will then see is that the hydrophilic head groups, which are here depicted in red, will point their
+way outwards, they will want to stick their heads in water.
+And conversely the hydrophobic tails fleeing from the water will actually associate one with the other. And so you
+have a structure that's called, in this case, an a micelle where you form this little globular sphere where the lipid
+tails are tucked inside.
+And, therefore, are actually being shielded from any direct exposure to water. This structure down here, the lipid
+bilayer, is actually, as we will discuss in greater detail shortly, the overall topology of the way most biological
+membranes are organized.
+In fact, virtually all of them. Why is that? Because biological membranes separate two hydrophilic or two aqueous
+spaces.
+Thank you, sir. A gentleman you are. So here is an aqueous space and here is an aqueous space. And as we see
+the hydrophilic heads are immersed or sticking their heads into the hydrophilic space.
+This is called a lipid bilayer. And, obviously, it's highly effective for separately these two aqueous compartments.
+In eukaryotic cells, as I mentioned last time, there is an enormous premium placed on separating and segregating
+different aqueous compartments which is invariably achieved through the device of constructing these lipid
+bilayers. Here's a vesicle. A vesicle is more complicated than a micelle. Because if you look at the membrane
+lining the vesicle, you see it's actually a lipid bilayer, but one that in 3-dimensional space is actually a sphere. And
+in the case of this vesicle, we can well imagine that on the inside of the vesicle water is kept, can be stored, and
+on the outside of the vesicle water can be stored.
+And many of the membranes that we see within the cytoplasms themselves are actually constructed on this kind
+of design.
+So when we draw, for example, in this case the Golgi apparatus, which I mentioned to you in passing last time we
+met, each one of these membranes here, it's obviously drawn as a double line, but whenever you see a
+membrane indicated, implicit in that drawing is the fact that each one of these membranes is actually a bilayer.
+There are never any monolayers of lipids in living cells. Each one of these vesicles you see here is actually a lipid
+bilayer with an aqueous inside and, once again, aqueous on the outside. Again, much of the thermodynamic
+stability that allows these vesicles to remain intact rather than just diffuse apart is created by these hydrophilic and
+hydrophobic forces which tie such molecules together or will rip them apart.
+Now, in truth there are yet other kinds of forces that govern the affinity of molecules to one another. For example,
+let's imagine a situation where we have an ionized acid group of the sort we just talked about before. Now, by the
+way, here, let's say I'll draw the negative charge on one of these two oxygens, if you can see that. But the truth is
+that the electrons are swarming back and forth, and so the negative charge is shared equally, the negative one
+electron charge is shared equally between these two oxygen atoms. And this is obviously an area of great
+electronegativity. Independent of that, let's imagine up here we have a basic group, let's say an amine group over
+here. And, the fact of the matter is, amine groups, NH2 groups, that's what an amine is, here's an amine group.
+This is a carboxylic group.
+And the amine group, which is used very often in biochemistry, actually has an affinity. It has an unpaired set of
+electrons on the nitrogen, and so it likes to attract protons to it, which makes it, causes it to be called basic.
+And this attraction, the scavenging of protons, perhaps from the water, will obviously give this whole group here a
+net positive charge, a charge equal to the charge of one proton. Here, once again, we can imagine this is
+hydrophilic because this charge group can once again also associate quite intimately with aqueous solvent.
+Now, independent of any other forces that might exist here, indeed one could imagine situations where there is a
+sharing of a proton.
+And, therefore, a hydrogen bond formed between these two. Independent of that is the simple electrostatic
+interaction of these two groups. That is the mutual attraction of positive and negative groups, one to the other.
+And the electrostatic interactions, you cannot quantify exactly how many kilocalories a mole there is because the
+energetic value in electrostatic interaction is equal to one over r squared where r is the distance between these
+two charged groups. And obviously the further apart you get the weaker the attraction with one another. There are
+also what are called van der Walls interactions. There are largely of interest to a very small community of
+biochemists.
+You probably will never, you may never hear this term again in your life. And van der Waals interactions come
+from the fact that if we were to have, for example, two molecules over here which are not normally charged in any
+way, let's just talk about two aliphatic chains again. And I won't put in all the protons and everything, but just
+imagine a situation like this. What will happen is that because of the fluctuations of electrons, because the
+electrons are swimming around here all the time, moving from one area to the next they're never equally
+distributed homogenously over a long period of time, there will be brief instance in time, microseconds or even
+nanoseconds when there happens to be more electrons over here than right here.
+Just by chance. And this area of unequal distribution of electrons will in turn induce the opposite kind of electron
+shift in a neighboring molecule down here.
+Obviously, depending on the distance between them.
+But the negative here will repel electrons down here.
+The positive here will attract electrons down here.
+And so you will have these two quasi-polar arrangements here and here, very ephemeral, that is lasting for a very
+short transient period of time. But, nonetheless, sufficient to give a very weak interaction between these two
+molecules which may persist only for a microsecond and then be dissipated because the charges then
+redistributed once again.
+And, as a consequence of that, one has very weak interactions which, in the great scheme of things, play only a
+And, as a consequence of that, one has very weak interactions which, in the great scheme of things, play only a
+very minor role in the overall energy which holds molecules together. Now, with that background in mind, let's
+begin to elaborate on it, on how we can make molecules that have interesting properties that enable them, among
+other things, to participate in the construction of lipid bilayers, which will be the first object of our attentions today
+in terms of actual biochemistry.
+So here's a fatty acid. We see that up here. I, in effect, drew you the structure of a fatty acid up here already once
+before. And what we can see is through a linkage known as esterification we can create this molecule. So what do
+I mean by esterification? Well, in this case we're talking about a situation here where we have a carbon atom over
+here like this with a hydroxyl group. You see it over here. And what we're doing is we're dehydrating this, we're
+pulling out one net molecule of water. And each time we do that, on three separate occasions, what we end up
+doing is to create instead of this is to create a covalent bond between these two.
+And so the end product of dehydrating this, pulling out one net molecule of water is that we end up with a
+structure that looks like this.
+And you see that happening on at least three different occasions, here, here and here. Well, actually, I should put
+a carbon over here.
+So here we have three esterifications.
+The hydroxyl group in each case is reacting with a carboxyl group here pulling out one water, and each case
+creating what's called triacylglyercol or triglyceride. Triglyceride refers to the fact that we started here with a
+glycerol and we have now esterified it.
+Now, in fact, there are two directions here in this kind of reaction. Esterification is the kind of linkage that we just
+showed here. And the truth is that vast numbers of biochemical linkages are made by esterification reactions and
+reversed by reactions that are called simply hydrolysis.
+And, in this case, what we're referring to is the fact that if one were to reintroduce a water molecule into each of
+these three linkages, one, two and three, we would break the bond and cause this entire structure to revert to the
+two precursors that existed or preexisted prior to these three esterification reactions.
+And time and again you'll see, over the next weeks, that esterification reactions are important for constructing
+different kinds of molecules. Now, the fact of the matter is we can do other kinds of modifications of a glycerol like
+this.
+Here what we've done, instead of adding a third fatty acid, note what was done here. Here through an
+esterification, let's look up at this one here, instead of adding a third fatty acid, we've saved, we've reserved one of
+the three groups of the glycerol.
+Here's what we saw just before. We've saved one of the three groups of the glycerol and put on instead this highly
+hydrophilic phosphate group, once again through a dehydration reaction, an esterification reaction. And now what
+we've done is add insult to injury because in the absence of this phosphate it would have a hydroxyl here which is
+mildly hydrophilic. But now look how strongly charged this is. Here are two negative charges, one electron each.
+And this is already a bit electronegative.
+So here we have an extremely potent hydrophilic entity.
+And here the degree of schizophrenia between one end of the molecule and the other is greatly exaggerated.
+Here, in fact, this is extremely hydrophilic.
+And, as a consequence of that, this really likes to stick its head inside water. And when we therefore talk about, we
+draw the images of different kinds of membranes, like this I showed you before the two tails. Here you saw the two
+tails I drew before in that diagram.
+Here's what we can imagine they actually look like in more real molecular terms. And the hydrophilic heads
+sticking in the water, this is just repeating what we saw before, become even more hydrophilic if we look at a
+molecule like this.
+Let's look at this thing here. Here's a very long hydrophobic tail.
+Here are the two glycerols once again. Here is the phosphate.
+And keep in mind that phosphate obviously has these extra oxygens.
+Phosphate can react with more than just one partner, the glycerol down here. In this case we've added this group
+up here. And this group up here is, once again, this happens to be a serine which is an amino acid, this also
+happens to be quite hydrophilic. Here's our old friend the basic amino group. Here's the carboxyl group. This is a
+bit hydrophobic, CH2. And then we once again have the hydrophilic head here.
+And, therefore, we imagine, if we look at what's called a space-filling model, and a space-filling model really is
+intended to show us what one imagines if one had this vision, which we don't have, how much space each of
+these atoms would actually take up if one were able to see them.
+And here we see this space filling model. This lipid molecule here is actually slightly kinked with its hydrophilic
+head tucked into the water space. And so here's actually the way that many biological membranes look in terms of
+the way that they are constructed.
+the way that they are constructed.
+Now, the fact of the matter is this also affords the cell the ability to segregate contents on one or the other side of
+whatever lipid bilayer it happens to have constructed. And here we can see about the semi-permeability, how
+permeable these membranes are to different kinds of molecules. Permeability obviously refers to the ability of this
+membrane to obstruct or to allow the migration of molecules from one side to the other.
+Ions, and these ions we see right here are obviously highly hydrophilic by virtue of their charge. That's explains, in
+fact, why, for example, table salt goes so readily into solution, because it readily ionizes into sodium, NA and CL,
+which then are avidly taken up by the water molecules.
+So these are highly hydrophilic ions. And the questions is, can they go from one side of the membrane to the
+other?
+And the answer is absolutely not or highly improbably. Why?
+Because these are so highly hydrophilic, the water molecules love to gather around them and form hydrogen
+bonds and electrostatic bonds with them. And if one of these ions ventures over here, it's going from an area
+where it's warmly embraced by the solvent molecules to an area where these molecules intensely dislike these
+ions. And, therefore, thermodynamically the entrance of any one of these ions into the membrane, into the
+hydrophobic portion of the membrane is highly disfavored, which makes the membrane essentially, for all practical
+purposes, impermeable. The same can be said of glucose which happens to be a carbohydrate. We'll talk about it
+shortly. But it's also nicely hydrophilic. It also can go in water. In fact, it can go through. And it's actually the case,
+to my knowledge, that one doesn't really understand to this day why lipid bilayers are reasonably permeable to
+water.
+You would say, well, water shouldn't be able to go through. It clearly doesn't have to have a net positive or
+negative charge, but the physical chemist, if you asked them why does water, why is water able to go through lipid
+bilayers? They'll say, well, we've been working on that and we'll get you an answer in the next five or ten years.
+And they said that 40 years ago and 30 years ago, and they're still saying it. And we don't really understand why
+water goes through, which is an embarrassment because here's one of the fundamental biochemical properties of
+living matter that is poorly understood. Gases can go right through.
+And amino acids, ATP, glucose 6 phosphate, highly hydrophilic, can also not go through. Now, the advantage of
+this is that a cell can accumulate large concentrations of these molecules either on the inside or it can pump them
+to the outside. In other words, it can create great gradients in the concentrations of different kinds of ions. For
+example, in many cells, the concentration of calcium, CA++ is a thousand times higher on the outside of the cell
+than on the inside of the cell which is a testimonial to how impermeable these lipid bilayer membranes are.
+The fact of the matter is I'm fudging a little bit here because in the lipid bilayers of the plasma membrane of the
+cell, the outer membrane of the cell that we talked about in passing last time, there are ion pumps which are
+constantly working away pumping ions from one side to the other overcomes the little bit of leakage which may
+have occurred if a calcium ion happens to have snuck through in one direction or the other. And we end up
+expending a lot of energy to keep these ion gradients in appropriate concentrations on the outside and the inside.
+In fact, virtually all the energy that is expended in our brain, almost all of it is expended to power the ion pumps
+which are constantly insuring that the concentrations of certain ions on the outside and the inside of neurons are
+kept at their proper respective levels.
+It could therefore be that actually more than half of our metabolic burden every day is expended just keeping the
+ions segregated on the outside and inside of cells. For example, potassium is at high levels inside cells, sodium is
+at high levels outside cells, just to site some arbitrary examples. There are also, by the way, as I mentioned last
+time, channels.
+And channels are actually just little doughnut shaped objects which are placed, inserted into lipid bilayers in the
+plasma membranes and just allow for the passive diffusion of an ion through them, through the doughnut hole
+enabling an ion, so if here's the lipid bilayer, not showing its two things, these kinds of doughnut shaped protein
+aggregates will allow the passage of ions in one direction or another. And here energy is not being expended to
+enable this passage. It may just be through diffusion.
+If there's a higher concentration of ion on side of the lipid bilayer and a lower one on this side, this diffusion will
+allow the ion to migrate through the bore of the ion channel from one side to the other.
+In fact, even though this does not involve the expenditure of energy on the part of the cell, the cell may actually
+use a gating mechanism to open or close these channels.
+When the channels are closed then the ions cannot move through.
+When the channels are gated open then diffusion can take over and insure the transfer, the transportation of ions
+from one side to the other. Now, having said that, we can begin to look at yet other higher level structures.
+Here, by the way, is a better drawing than the one I provided you.
+This comes from your book of what a vesicle looks like.
+Here's what it looks like under the electron microscope and here's what it looks like when a talented rather than
+hapless and hopeless artist like myself tries to draw it. So let's just say that's our intro into lipids and membranes.
+And let's move onto the next layer of complexity. And the next layer of complexity in terms of molecules
+represents carbohydrates.
+And when we talk about a carbohydrate amongst ourselves we're talking about a molecule which, roughly
+speaking, has one carbon atom for every water molecule. And we'll shortly indulge ourselves in talking about all
+kinds of different carbohydrate molecules.
+Here is really one of the most important carbohydrate molecules, glucose. And what should we note about
+glucose?
+Well, the first thing you should see is that glucose has six carbon atoms. And, therefore, as a consequence it's
+called a hexose. We're going to talk about pentoses very shortly. They only have five, to state the obvious.
+Glycerol, which we talked about before, is also considered in one sense a carbohydrate, but it's been called by
+some people a triose.
+It only has three carbon atoms. And you can imagine, therefore, in principal that there are certain biochemical
+mechanisms which indeed exist which enable one to join two glycerol molecules, one to the other, to create
+something like a hexose, glucose.
+In fact, what we see from this drawing, expertly drawn by yours truly, is that the hexose molecule isn't really a
+linear molecule in solution. What happens is that because of various steric and thermodynamic forces it likes to
+cyclize. So let me just mention, I've just used two words that are useful to know about.
+Steric or stereochemistry refers to the 3-dimensional structure of a molecule. And, obviously, the stereochemistry
+of a molecule is dictated by the flexibility with which participating atoms can form bonds, whether we have a
+trivalent atom like nitrogen or a tetravalent atom like carbon or a monovalent like hydrogen. And these structures,
+the stereochemistry is dictated both by what atoms are present here and by thermodynamic considerations which
+cause this particular hexose, indeed virtually all hexoses, to cyclize. When I say cyclize, obviously I mean to form a
+circular structure. Here we note one thing.
+You can see how the hydroxyl here actually attacks the positively charged carbon here in order to form this cyclic
+structure.
+You see one of the six points on this hexagonal structure here is oxygen. It's not carbon at all. So there is one
+oxygen and five carbons. And one of the carbons is relegated, is exiled to outside of the circle. It's sometimes
+called an extracyclic because it's sticking out from the actual circle. And this is the structure in which glucose
+actually exists inside cells. And, in fact, there is, in truth, two alternative ways by which glucose can cyclize,
+whether the oxygen attacks the carbon on the carbonyl group underneath or on top.
+And you see that gives us two alternative structures.
+What's different about them? Well, if we think about this hexose as existing in a plane, or the hexagon is in a plane
+In this case the oxygen is above the plane and the hydrogen is below the plane. With equal probability you can
+have these two atoms reversed where hydrogen is now above the plane and hydroxyl is below the plane. And
+both of these structures, these alternative structures can fairly be considered to be glucose. Now, let's get a little
+bit more complicated. Here we have fructose and we have galactose.
+And what we see here is, by the way, that we have exactly the same number of carbon atoms and hydrogen
+atoms and oxygen atoms but they're hooked up slightly differently. And here now we begin to get very picky about
+the disposition, the orientation of these different kinds of hydroxyls and hydrogens.
+And note, by the way, here that in many cases one doesn't even put in the H for the hydrogen. It's just implied by
+the end of this line. And here, if you were to look at this, you'll see here now we have two extra cyclic carbons.
+Here's galactose which is yet another hexose.
+These are all hexoses, but their stereochemistry creates quite different kinds of structures. And it turns out that
+this stereochemistry is extremely important. These molecules function very differently, one from the other.
+And, for example, to the extent that glucose is used in different kinds of energy metabolism and to the extent that
+galactose is not, there must be certain biochemical mechanisms in which one has catalysts, the catalysts that we
+call enzymes that ensure that one can convert one of these hexoses through an enzyme into, let's say a less
+useful one into a more useful one, glucose, which can readily be burnt up by the energy-generating machinery.
+Here we've gone yet another order of magnitude more complex because we've gone from a monosaccharide, i.e.,
+one or another hexose, to a disaccharide. And here's common table sugar.
+And here you see that it's formed once again through an esterification reaction, i.e. there is a dehydration reaction
+between this hydroxyl here and this hydroxyl here.
+And biochemists take the orientation of these hydroxyl and hydrogen groups very seriously. Now, you can say
+they're a bit obsessive. Indeed they probably are.
+But, nonetheless, we can admit that the specific orientations of all these things dictate very importantly the
+difference between here, in this case sucrose, and in this case lactose. Why is this important? Well, this is the
+sugar in milk sugar. This is the dominant sugar in milk sugar, lactose. And half the world, as adults, cannot absorb
+this.
+All kinds of unpleasant things happen when they actually drink milk. How many people here are lactose intolerant?
+It's nothing to be ashamed of. I'm married to a very lactose intolerant person. She's otherwise very nice.
+The fact is that the enzyme to break down lactose, it's an enzyme which is called lactase. And here we have yet
+another nomenclature item. So lactase is the enzyme which breaks down lactose. And, by the way, this is just the
+harbinger of many other enzymes we're going to talk about in the future that end in A-S-E. Whereas,
+carbohydrates, many of them end in O-S-E, as you've already sensed.
+So it turns out that the enzyme lactase is made in large amounts by most mammals very early in life. Why? To be
+able to breakdown the milk sugar that comes in their mother's milk.
+But once mammals are weaned there's no reason on earth for them to continue to make lactase, in their stomach
+for example.
+And, as a consequence, in most mammals the production of lactase is shut down later in life. And for some weird
+quirk of human history, a significant proportion of humanity has learned how to retain the ability to make lactose
+through adulthood. And, as a consequence, people can go and have ice cream until the age of 70, 80 or 90
+without becoming very bloated. And we don't need to get into all the details, but you can begin to imagine. And
+what happens is, therefore, the lactase enzyme is shut down in their stomach.
+It depends. Sometimes they lose it at the age of 10 or 15 or 20.
+And then, for the rest of their lives, whenever they have a milk containing product, in fact, my son is also lactose
+intolerant. I'm surrounded by these people. Again, he is otherwise a tolerant person but he's lactose intolerant.
+So this lactose molecule will go into the stomach, it will remain undigested, it will remain a disaccharide instead of
+being cleaved into two monosaccharides.
+The two monosaccharides are no problem because they can readily be interconverted. The galactose can be
+readily converted into glucose, and glucose is the universal currency of carbohydrate energy. And so this
+disaccharide passes through the stomach unaltered and it gets into the intestines, in the small intestine and the
+large intestine.
+And it turns out we have more bacterial cells in our gut than we have our own cells in the rest of the body. Imagine
+that.
+And there are a lot of bacteria that are waiting around in the gut for just a little gulp of lactose. And they never get
+it because most people break down their lactose long before it gets into the intestine.
+But here we have these lactose intolerant people.
+The disaccharide gets into the gut and the bacteria go to town.
+They've been waiting around for years, decades for a little bit of lactose. And now it finally arrives and they go to
+town, ad they start metabolizing it and they ferment and they produce lots of gas and other kinds of byproducts.
+And, as a consequence, this makes people very uncomfortable. Just to show you, now, the fact is that lactose
+intolerance people can perfectly well break down sucrose, obviously. This is one of the great energy sources from
+plants. But they cannot break this down.
+And I emphasize that point to indicate that the stereochemical differences between different kinds of
+carbohydrates makes a very important difference. An enzyme like sucrase will break down the sucrose but it will
+not touch lactose.
+So there's a high degree of stereospecificity as it's called in the trade. Here we now go to another step forward
+that we're going to pursue in much greater detail next time.
+Because here, for the first time, we talk about polymerization. We're making polymers. Where the large number of
+hydroxyl groups on these monosaccharides affords one many opportunities to make very long linear aggregates
+end-to-end like this or even side branches. If you imagine that each one of these hydroxyls, in principle,
+represents a site for possible esterification, i.e., the formation of a bond to a neighboring side chain.
+Here we see these two linear chains and here we see the branch which is afforded, which is made possible by the
+availability of these unutilized hydroxyl side chains which are just waiting around to participate, if the opportunity
+allows them, in some kind of esterification reaction to form a covalent bond. Here is, by the way, glycogen, which
+is the way we store a lot of sugar in our liver.
+Here's a starch, which is what we get from many plants. And here's another very interesting polysaccharide.
+It's called cellulose. And we cannot digest cellulose, but termites can. And why they can is something we'll have to
+wait until next time to learn about. Have a great weekend. See you on Monday.
